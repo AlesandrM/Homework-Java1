@@ -26,5 +26,5 @@ https://github.com/AlesandrM/Homework-Java1/issues/1
 
 Тестирование производилось в следующем окружении:
 * Windows 7; 64-ОС 
-* <версия Java>
-* <другое ПО, при необходимости>
+* openjdk version "11.0.12" 2021-07-20
+* IntelliJ IDEA 2021.2.3 (Community Edition)
